@@ -1,5 +1,3 @@
-# python-exercise
-
 # Project Setup:
 
 1. Clone this repository to your local machine using ssh. (NOTE: don't forget to add first your ssh key in your github account settings if you haven't done that yet)
